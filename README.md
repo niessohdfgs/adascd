@@ -11,4 +11,4 @@ JavaScript is a powerful programming language that can add interactivity to a we
 
 ##  *purpose of project*
 
-** A link to [youtube](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) **
+A ** link ** to [youtube](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) 

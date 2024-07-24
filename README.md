@@ -6,7 +6,7 @@ JavaScript is a powerful programming language that can add interactivity to a we
 - Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Disqus or Facebook.
 
 - Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
-
+.
 
 
 ![images](https://github.com/user-attachments/assets/5672cfb7-6d92-49ba-992a-dcff6422be36)

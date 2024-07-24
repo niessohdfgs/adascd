@@ -14,4 +14,5 @@ JavaScript is a powerful programming language that can add interactivity to a we
 A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) but lets play russian rolet :))))
 
 ''' const myHeading = document.querySelector("h1");myHeading.textContent = "Hello world!";
+>To give you a better understanding of how JavaScript works, let's explain some of the core features of the language. It's worth noting that these features are common to all programming languages.
 

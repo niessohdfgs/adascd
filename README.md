@@ -18,7 +18,7 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ![thats what i want](https://github.com/user-attachments/assets/afcee24b-ad5a-4709-916c-e8ef2954a42b)
 
-## simpel section of work
+### simpel section of work
 
 |languages| time|
 |:---------|:---------|

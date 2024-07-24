@@ -17,5 +17,8 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 >To give you a better understanding of how JavaScript works, let's explain some of the core features of the language. It's worth noting that these features are common to all programming languages.
 
 ![thats what i want](https://github.com/user-attachments/assets/afcee24b-ad5a-4709-916c-e8ef2954a42b)
+
+## simpel section of work
+
 | script | javascript | python |
 

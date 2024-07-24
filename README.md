@@ -18,12 +18,12 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ![thats what i want](https://github.com/user-attachments/assets/afcee24b-ad5a-4709-916c-e8ef2954a42b)
 
-### simpel section of work
+## simpel section of work
 
 |languages| time|
 |:---------|:---------|
 |java script|3mounth|
 |python|1week|
 
-##  you master these fundamentals, you have a head start on coding in other languages too!
+###  you master these fundamentals, you have a head start on coding in other languages too!
 >A semicolon at the end of a line indicates where a statement ends. It is only required when you need to separate statements on a single line. However, some people believe it's good practice to have semicolons at the end of each statement. There are other rules for when you should and shouldn'

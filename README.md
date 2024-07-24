@@ -20,5 +20,5 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ## simpel section of work
 
-| script | javascript | python |
+| row,m1 | row,m2 | row, m3 |
 

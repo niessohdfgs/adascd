@@ -9,4 +9,4 @@ JavaScript is a powerful programming language that can add interactivity to a we
 ![images](https://github.com/user-attachments/assets/5672cfb7-6d92-49ba-992a-dcff6422be36)
 
 
-##purpose of project
+## purpose of project

@@ -5,4 +5,4 @@ JavaScript is a powerful programming language that can add interactivity to a we
 - Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
 - Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Disqus or Facebook.
 
--Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.
+- Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications.

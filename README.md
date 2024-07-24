@@ -22,6 +22,6 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 |languages| time|
 |:---------|:---------|
-|java script|3m|
-|python|1w|
+|java script|3mounth|
+|python|1week|
 

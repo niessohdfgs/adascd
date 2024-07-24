@@ -20,5 +20,8 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 
 ## simpel section of work
 
-| row,m1 | row,m2 | row, m3 |
+|languages| time|
+|:---------|:---------|
+|java script|3m|
+|python|1w|
 

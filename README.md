@@ -16,6 +16,6 @@ A link to [js service](https://developer.mozilla.org/en-US/docs/Learn/Getting_st
 ''' const myHeading = document.querySelector("h1");myHeading.textContent = "Hello world!";
 >To give you a better understanding of how JavaScript works, let's explain some of the core features of the language. It's worth noting that these features are common to all programming languages.
 
-![thats what i want](![download](![image](https://github.com/user-attachments/assets/afcee24b-ad5a-4709-916c-e8ef2954a42b)
+![thats what i want](https://github.com/user-attachments/assets/afcee24b-ad5a-4709-916c-e8ef2954a42b)
 
 
